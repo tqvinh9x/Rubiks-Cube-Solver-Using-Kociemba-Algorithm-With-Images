@@ -168,7 +168,7 @@ namespace KociembaSolver
                     picDone.BorderStyle = BorderStyle.Fixed3D;
                     Label lblStepDone = new Label();
                     lblStepDone.Parent = picDone;
-                    lblStepDone.Location = new Point(0, 125);
+                    lblStepDone.Location = new Point(0, pictureSize - 20);
                     lblStepDone.BackColor = Color.Transparent;
                     lblStepDone.ForeColor = Color.Green;
                     lblStepDone.Text = "Done.";
