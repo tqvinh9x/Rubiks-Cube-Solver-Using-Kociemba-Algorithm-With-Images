@@ -23,3 +23,16 @@ D:\KociembaSolver\KociembaSolver\obj\Debug\KociembaSolver.csproj.CoreCompileInpu
 D:\KociembaSolver\KociembaSolver\obj\Debug\KociembaSolver.csproj.CopyComplete
 D:\KociembaSolver\KociembaSolver\obj\Debug\CubingSolution.exe
 D:\KociembaSolver\KociembaSolver\obj\Debug\CubingSolution.pdb
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\bin\Debug\CubingSolution.exe.config
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\bin\Debug\CubingSolution.exe
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\bin\Debug\CubingSolution.pdb
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\bin\Debug\TwoPhaseSolver.dll
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\bin\Debug\TwoPhaseSolver.pdb
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\obj\Debug\KociembaSolver.csprojAssemblyReference.cache
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\obj\Debug\KociembaSolver.Form1.resources
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\obj\Debug\KociembaSolver.Properties.Resources.resources
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\obj\Debug\KociembaSolver.csproj.GenerateResource.cache
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\obj\Debug\KociembaSolver.csproj.CoreCompileInputs.cache
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\obj\Debug\KociembaSolver.csproj.CopyComplete
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\obj\Debug\CubingSolution.exe
+D:\Cubing-Solution-using-Kociemba-algorithm-with-pictures\KociembaSolver\obj\Debug\CubingSolution.pdb
